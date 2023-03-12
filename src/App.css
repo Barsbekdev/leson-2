@@ -1,38 +1,192 @@
-.App {
-  text-align: center;
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    width: 87%;
+    margin: 0 auto;
+}
+.menu h3{
+    margin-left: 10px;
+}
+.menu p{
+    color: dodgerblue;
+    display: flex;
+    align-items: center;
+    font-size: 15px;
+}
+.menu h5{
+    position: absolute;
+    margin-left: 150px;
+    color: blue;
+margin-top: 40px;
+}
+.menu button{
+    width: 230px;
+    height: 45px;
+    background: #007BFF;
+    border-radius: 10px;
+}
+.menu button:hover{
+    color: green;background: khaki;
+}
+.menu{
+margin-top: 100px;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.menu1 h3{
+    margin-left: 10px;
+}
+.menu1 p{
+    color: dodgerblue;
+    display: flex;
+    align-items: center;
+    font-size: 15px;
+}
+.menu1 h5{
+    position: absolute;
+    margin-left: 150px;
+    color: blue;
+    margin-top: 40px;
+}
+.menu1 button{
+    width: 230px;
+    height: 45px;
+    background: #007BFF;
+    border-radius: 10px;
+}
+.menu1 button:hover{
+    color: green;background: khaki;
+}
+.menu1{
+    margin-top: -348px;
+    margin-left: 500px;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.menu2 h3{
+    margin-left: 10px;
+}
+.menu2 p{
+    color: dodgerblue;
+    display: flex;
+    align-items: center;
+    font-size: 15px;
+}
+.menu2 h5{
+    position: absolute;
+    margin-left: 150px;
+    color: blue;
+    margin-top: 40px;
+}
+.menu2 button{
+    width: 230px;
+    height: 45px;
+    background: #007BFF;
+    border-radius: 10px;
+}
+.menu2 button:hover{
+    color: green;background: khaki;
+}
+.menu2{
+    position: absolute;
+    margin-top: -348px;
+    margin-left: 1000px;
+}
+.btn{
+    width: 233px;
+    height: 47px;
+    border: none;
+    background: #007BFF;
+    border-radius: 41px;
+    margin-top: 100px;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.menu3 h3{
+    margin-left: 10px;
+}
+.menu3 p{
+    color: dodgerblue;
+    display: flex;
+    align-items: center;
+    font-size: 15px;
+}
+.menu3 h5{
+    position: absolute;
+    margin-left: 150px;
+    color: blue;
+    margin-top: 40px;
+}
+.menu3 button{
+    width: 230px;
+    height: 45px;
+    background: #007BFF;
+    border-radius: 10px;
+}
+.menu3 button:hover{
+    color: green;background: khaki;
+}
+.menu3{
+    position: absolute;
+    margin-top: 148px;
+    margin-left: -10px;
 }
 
-.App-link {
-  color: #61dafb;
+.menu4 h3{
+    margin-left: 10px;
+}
+.menu4 p{
+    color: dodgerblue;
+    display: flex;
+    align-items: center;
+    font-size: 15px;
+}
+.menu4 h5{
+    position: absolute;
+    margin-left: 150px;
+    color: blue;
+    margin-top: 40px;
+}
+.menu4 button{
+    width: 230px;
+    height: 45px;
+    background: #007BFF;
+    border-radius: 10px;
+}
+.menu4 button:hover{
+    color: green;background: khaki;
+}
+.menu4{
+    position: absolute;
+    margin-top: 148px;
+    margin-left: 1000px;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.menu5 h3{
+    margin-left: 10px;
+}
+.menu5 p{
+    color: dodgerblue;
+    display: flex;
+    align-items: center;
+    font-size: 15px;
+}
+.menu5 h5{
+    position: absolute;
+    margin-left: 150px;
+    color: blue;
+    margin-top: 40px;
+}
+.menu5 button{
+    width: 230px;
+    height: 45px;
+    background: #007BFF;
+    border-radius: 10px;
+}
+.menu5 button:hover{
+    color: green;background: khaki;
+}
+.menu5{
+    position: absolute;
+    margin-top: 150px;
+    margin-left: 500px;
 }
